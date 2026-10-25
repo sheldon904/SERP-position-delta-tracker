@@ -9,7 +9,7 @@ The generator is implemented in `scripts/serp_report.py`.
 
 ## Prerequisites
 
-- Python 3.8+ installed
+- Python 3.11+ installed (pillow 13, a security fix, requires it)
   - Windows: https://www.python.org/downloads/windows/
   - macOS: https://www.python.org/downloads/macos/
   - Linux: use your package manager or pyenv
